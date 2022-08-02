@@ -39,6 +39,6 @@ switch_pin: gpio16
 pause_on_runout: True
 ```
 
-This is a remix of this [head filament sensor](https://github.com/EtteGit/EnragedRabbitProject/tree/main/usermods/LGX_Toolhead_Sensor) from Th3FalleN#9999
+This is a remix of this [head filament sensor](https://github.com/EtteGit/EnragedRabbitProject/tree/main/usermods/LGX_Toolhead_Sensor) from Th3FalleN#9999 and the original Voron filament guide.
 
 
