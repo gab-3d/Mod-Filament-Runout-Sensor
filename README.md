@@ -1,4 +1,4 @@
-# Filament-Runout-Sensor
+# Filament Runout Sensor
 This is DIY filament runout sensor for Voron 2.4 and Trident
 
 ![All needed pic](./images/FS%20all.png)
