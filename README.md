@@ -1,6 +1,8 @@
 # Filament-Runout-Sensor
 This is DIY filament runout sensor for Voron 2.4 and Trident
 
+!(All needed pic)[images/FS all.png]
+
 Works on Klipper and RRF
 
 Hardware required:
