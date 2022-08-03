@@ -59,5 +59,5 @@ This is a remix of this [head filament sensor](https://github.com/EtteGit/Enrage
 
 ![All needed](./images/FSall.png)
 ![Mounted mod](./images/FSmount.png)
-![Mounted mod](./images/FSmount2.png)
+![Mounted mod](./images/FSMount2.png)
 ![CAD Section](./images/FSSection.png)
